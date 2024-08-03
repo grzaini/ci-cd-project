@@ -1,0 +1,3 @@
+name: CI Workflow
+workflow triggers: push on main branch and pull_request on main branch
+
